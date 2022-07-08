@@ -1,4 +1,4 @@
-![Knotters Banner](https://cdn.knotters.org/graphics/self/2500x1000/banner-dark-bg.webp)
+![Knotters Banner](https://cdn.knotters.org/graphics/self/250x100/banner-dark-bg.webp)
 ## Knotters Community
 
 This is the presence of Knotters Community on GitHub platform.
